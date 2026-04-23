@@ -22,3 +22,4 @@ Admin Credentials:
 Username: admin
 Password: 12345678
 
+Auto
